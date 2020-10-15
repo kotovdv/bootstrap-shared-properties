@@ -1,6 +1,6 @@
 # Bootstrap shared properties
 
-Toy example to demonstrate the example from [this SO post](https://stackoverflow.com/questions/64355183/sharing-properties-between-bootstrap-configurations).
+A toy example to demonstrate the problem from [this SO post](https://stackoverflow.com/questions/64355183/sharing-properties-between-bootstrap-configurations).
 
 
 ## Core places:
