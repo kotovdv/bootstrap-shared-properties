@@ -32,9 +32,15 @@ Provides values for:
 
 Works when values are independent.
 
-No longer works when one value depends on a property provided by another library. 
 E.g.
+```
+libX.consumed.property=15
+libY.consumed.property=25
+```
 
+No longer works when one value depends on a property provided by another library. 
+
+E.g.
 
 ```
 libX.consumed.property=15
